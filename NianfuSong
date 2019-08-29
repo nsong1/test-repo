@@ -1,0 +1,4 @@
+In a Terminal, go to the local repository folder, test-repo, you created last time.
+
+cd [your-path]/test-repo
+Now, create a new file titled [your last name].txt and add a line of text to it.
